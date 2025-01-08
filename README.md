@@ -16,5 +16,6 @@ To conduct detailed analysis of phishing emails by evaluating email headers, att
 - Cyber chef used for copying plaintxt and decode it.
 - Gary Kesler tool, To check filetye attached in suspicious email.
 - exit tool, To find malicious act.
+- Kali Lunix.
 
 ## Steps
