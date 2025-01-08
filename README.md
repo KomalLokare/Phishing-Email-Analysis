@@ -19,3 +19,11 @@ To conduct detailed analysis of phishing emails by evaluating email headers, att
 - Kali Lunix.
 
 ## Steps
+- Download the Email File.
+- Open and edit in Notepad.
+- Analyse the Email and Check for SPF status Pass/Fail.
+- If SPF status is Fail, then email might be suspicions, dig more into it.
+- Check for ReplyTo mail and From Address must be same.
+- Copy the Plaintext and try to decode it by using trsuted tool Cyber Chef.
+- Then after message is been decoded copy first four byted and use Gary kelser tool to check the filetype.
+- Check for the email service a malicious actor used. Here it was 'emkei' i;e face mails tool that creates and sends fakemails.
